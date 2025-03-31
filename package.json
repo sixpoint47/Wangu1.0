@@ -1,1 +1,7 @@
 {"name": "wangu-frontend", "version": "1.0.0"}
+"dependencies": {
+  "express": "^4.18.2",
+  "dotenv": "^16.0.3",
+  "mongoose": "^7.0.3",
+  "cors": "^2.8.5"
+}
